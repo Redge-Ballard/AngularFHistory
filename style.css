@@ -1,0 +1,19 @@
+body {
+	height: 100vh;
+	background: linear-gradient(to bottom, #63b6db 0%,#1f5584 100%);
+}
+
+h2 {
+	background-color: #1F5584;
+	padding: 5px;
+	border-radius: 5px;
+	color: white;
+	width: 20%;
+}
+
+span {
+	background-color: #1F5584;
+	padding: 5px;
+	border-radius: 5px;
+	color: white;
+}
